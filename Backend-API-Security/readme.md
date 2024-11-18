@@ -28,7 +28,7 @@ This is a Node.js backend server for the StarShop, designed to provide secure en
 ### 1. Clone this repo
 
 ```sh
-git clone https://gitlab.com/tbz_git_projects/m321-verteilte-systeme-programmieren/star-shop.git
+git clone https://github.com/ERMFox/M-321-Distributed-Systems.git
 ```
 
 ### 2. Build the Docker image or run locally

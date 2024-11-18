@@ -25,7 +25,7 @@ INSERT INTO users
     (username, email, password, role_id)
 VALUES
     ('Admin', 'admin@starshop.ch', '1234', 1),
-    ('tim', 'tim@starshop.ch', 'bieler', 2);
+    ('user', 'user@starshop.ch', 'Password1', 2);
 
 GRANT ALL PRIVILEGES ON *.* TO 'user'@'%' WITH GRANT OPTION;
 

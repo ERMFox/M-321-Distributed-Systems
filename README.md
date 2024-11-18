@@ -27,3 +27,18 @@ npm install
 ```bash
 node server.js
 ```
+For a more detailed readme on the backend please go to the backend folder
+
+## Usage
+
+    Ensure the database is running and configured correctly.
+    Use the provided API endpoints to interact with the backend.
+
+## Acknowledgments
+
+    Papasteve5: Created the database schema.
+    Group members: A big thanks to everyone involved in the project.
+
+## License
+
+This project is for educational purposes and does not have a specific license. Feel free to reference it, but avoid using it in production without permission.
